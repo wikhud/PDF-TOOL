@@ -1,8 +1,8 @@
-# PDF-TOOL
+# PDF-Tool
 
-This is created to work with PDF files. I made it with some help of OpenAI ChatGPT. Using it, you can concatenate (merge) separate files or split one into more. Files preview is availible.
+This code is created to work with PDF files. I made it with some help of ChatGPT by OpenAI. Using it, you can concatenate (merge) separate files or split one into more. Files preview is availible.
 
-Example usage output:
+Example usage:
 
 ![Zrzut ekranu 2023-08-17 174955](https://github.com/wikhud/PDF-Tool/assets/99511332/37bfa957-9eb5-434e-af7d-2e139c4f200b)
 
