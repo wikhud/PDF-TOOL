@@ -1,6 +1,6 @@
 # PDF-Tool
 
-This code is created to work with PDF files. I made it with some help of ChatGPT by OpenAI. Using it, you can concatenate (merge) separate files or split one into more. Files preview is availible.
+This code is created to work with PDF files. Using it, you can concatenate (merge) separate files or split one into more. Files preview is availible.
 
 Example usage:
 
